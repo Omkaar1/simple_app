@@ -2,6 +2,10 @@
   "name": "simple_app",
   "version": "1.0.0",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'Test passed' && exit 1"
+  },
   "author": "Omkar Londhe",
   "type": "commonjs"
 }
